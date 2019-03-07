@@ -16,7 +16,7 @@ enum DirectionEnum {
     West,
     //% block="South"
     South,
-    //% block="Noth"
+    //% block="Notrh"
     North,
 }
 

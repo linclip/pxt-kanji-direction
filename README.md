@@ -1,6 +1,6 @@
 # pxt-kanji-direction
 
-
+This is Japanese characters of direction (up, down, left, right / east, west, south, north)  for the micro:bit.
 
 ## TODO
 
@@ -15,10 +15,9 @@ Read more at https://makecode.microbit.org/packages/build-your-own
 
 ## License
 
-
+MIT
 
 ## Supported targets
 
 * for PXT/microbit
-(The metadata above is needed for package search.)
 
